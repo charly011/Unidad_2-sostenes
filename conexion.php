@@ -1,9 +1,9 @@
 <?php
 
 $servidor = "localhost";
-$usuario = " idolized-laugh-php@localhost";
+$usuario = "root";
 $password = "";
-$base_datos = "idolized_laugh_php_agenda";
+$base_datos = "agenda";
 $puerto = 3310;
 
 $conn = new mysqli(
